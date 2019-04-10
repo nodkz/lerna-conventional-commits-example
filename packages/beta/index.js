@@ -1,1 +1,1 @@
-module.exports = 'beta minor2';
+module.exports = 'beta minor3';
