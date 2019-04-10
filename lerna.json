@@ -4,8 +4,8 @@
   "command": {
     "publish": {
       "allowBranch": "master",
-      "forcePublish": true,
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "githubRelease": true
     }
   }
 }
