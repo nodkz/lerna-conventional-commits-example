@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.2](https://github.com/nodkz/lerna-conventional-commits-example/compare/v2.2.1...v2.2.2) (2019-04-10)
+
+
+### Bug Fixes
+
+* beta ([41b13ee](https://github.com/nodkz/lerna-conventional-commits-example/commit/41b13ee))
+
+
+
+
+
 ## [2.2.1](https://github.com/nodkz/lerna-conventional-commits-example/compare/v2.2.0...v2.2.1) (2019-04-10)
 
 
